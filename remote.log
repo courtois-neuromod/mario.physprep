@@ -1,0 +1,1 @@
+5c4b087a-dac3-4145-864e-d613c7a9aa1b autoenable=true bucket=cneuromod.mario.physprep chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=s3.cneuromod.mario.physprep port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1738202398.097070347s
