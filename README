@@ -1,13 +1,14 @@
 <!-- vim: syntax=Markdown -->
-# Courtois-NeuroMod: [xxxx subdataset, fmriprep derivatives](https://github.com/courtois-neuromod/xxxxx.fmriprep) 
+# Courtois-NeuroMod: [Mario subdataset, physprep derivatives](https://github.com/courtois-neuromod/mario.physprep) 
 
 The [Courtois project on Neural Modelling (Courtois NeuroMod)](https://www.cneuromod.ca/) aims at training artificial neural networks using extensive experimental data on individual human brain activity and behaviour.
 
 Participants performed task xxx while functional data being acquired in the MRI scanner . A extensive description can be found [here](https://docs.cneuromod.ca/en/latest/DATASETS.html#xxxx).
 
-This subdataset is organized following the [brain imaging data structure (BIDS)](https://bids.neuroimaging.io/) (including extensions in development) and contains:
-- [x] [preprocessed neuroimaging data](https://docs.cneuromod.ca/en/latest/DERIVATIVES.html#fmriprep)
+This subdataset is organized following a [brain imaging data structure (BIDS)](https://bids.neuroimaging.io/) like structure (including extensions in development) and contains:
+- [ ] preprocessed neuroimaging data
 - [ ] behavioral variables in event files
+- [x] preprocessed physiological data
 
 *(unchecked are collected data which have not yet been integrated in the dataset)*
 
